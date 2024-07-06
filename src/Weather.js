@@ -66,16 +66,10 @@ export default function Weather() {
           {" "}
           <footer>
             Created by
-            <a href="https://github.com/Bpmodele" target="_blank">
-              {" "}
-              Madali Navas
-            </a>
-            , is open-sourced on
-            <a href="https://github.com/Bpmodele/weather-react" target="_blank">
-              {" "}
-              Github
-            </a>{" "}
-            and hosted on Netlify.
+            <a href="https://github.com/Bpmodele"> Madali Navas</a>, is
+            open-sourced on
+            <a href="https://github.com/Bpmodele/weather-react"> Github</a> and
+            hosted on Netlify.
           </footer>
         </div>
       </div>
