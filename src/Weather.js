@@ -75,14 +75,7 @@ export default function Weather() {
               {" "}
               Github
             </a>{" "}
-            and hosted on
-            <a
-              href="https://idyllic-churros-c687dd.netlify.app/"
-              target="_blank"
-            >
-              {" "}
-              Netlify.
-            </a>
+            and hosted on Netlify.
           </footer>
         </div>
       </div>
