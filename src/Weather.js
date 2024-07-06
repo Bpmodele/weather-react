@@ -62,17 +62,29 @@ export default function Weather() {
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
         </div>
-        <footer>
-          This project was coded by Madali Navas and is{" "}
-          <img src="https://github.com/Bpmodele/weather-react">
-            open-sourced on GitHub
-          </img>
-          and{" "}
-          <img src="https://idyllic-churros-c687dd.netlify.app/">
-            hosted on Netlify
-          </img>
-          .
-        </footer>
+        <div>
+          {" "}
+          <footer>
+            Created by
+            <a href="https://github.com/Bpmodele" target="_blank">
+              {" "}
+              Madali Navas
+            </a>
+            , is open-sourced on
+            <a href="https://github.com/Bpmodele/weather-react" target="_blank">
+              {" "}
+              Github
+            </a>{" "}
+            and hosted on
+            <a
+              href="https://idyllic-churros-c687dd.netlify.app/"
+              target="_blank"
+            >
+              {" "}
+              Netlify
+            </a>
+          </footer>
+        </div>
       </div>
     </div>
   );
