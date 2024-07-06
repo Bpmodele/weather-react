@@ -81,7 +81,7 @@ export default function Weather() {
               target="_blank"
             >
               {" "}
-              Netlify
+              Netlify.
             </a>
           </footer>
         </div>
